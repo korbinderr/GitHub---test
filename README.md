@@ -2,4 +2,4 @@
 
 Writing random strings
 
-Koo Beans
+Koo Beanz. KOOOO beans. 
