@@ -6,4 +6,5 @@ Public Class Arrange
     Dim value as String
     Console.WriteLine(value)
   End Function
+  
 End Class
