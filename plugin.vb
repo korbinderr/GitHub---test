@@ -8,3 +8,8 @@ Public Class Arrange
   End Function
   
 End Class
+
+Public Overridable Class Dogs
+  Dim stType as String
+  
+End Class
